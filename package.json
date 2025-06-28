@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/stitch-gh/stitch/issues"
   },
-  "homepage": "https://github.com/stitch-gh/stitch#readme"
+  "homepage": "https://github.com/stitch-gh/stitch#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
